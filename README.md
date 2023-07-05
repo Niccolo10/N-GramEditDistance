@@ -46,4 +46,10 @@ The project requires Python 3.x and the matplotlib library for generating graphs
 
 ## Contributors
 
-- Niccolò Parlanti
+Niccolò Parlanti
+
+
+
+
+
+
